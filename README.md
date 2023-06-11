@@ -1,5 +1,3 @@
-Estou construindo um portal na web sobre agricutura urbana, este é meu plano em, esta em markDown: 
-
 **PLANTE.SE**
 
 ## Missão:
