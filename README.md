@@ -60,67 +60,67 @@ localidade e buscas.
 
 -   Website
 
--   Home
+    -   Home
 
-    -   Lista de artigos
+        -   Lista de artigos
 
-        -   Detalhes do artigo
+            -   Detalhes do artigo
 
-            -   Favoritar
-
-        -   Detalhes da empresa
-
-            -   Favoritar
-
-    -   Area promocional
-
-        -   Detalhes da empresa
-
-            -   Favoritar
-
-    -   Serviços em destaque
-
-        -   Detalhes do serviço
-
-            -   Faça um orçamento
-
-            -   Detalhes da empresa/profissional
-
-            -   Favoritar
-
-    -   Produtos em destaque
-
-        -   Detalhes do produto
-
-        -   Adicionar ao carrinho
-
-            -   Adicionar favoritos
+                -   Favoritar
 
             -   Detalhes da empresa
 
-    -   Busca ( pode ser lateral ou campo superior )
+                -   Favoritar
 
-        -   Campo de busca
+        -   Area promocional
 
-        -   Busca por localidade
+            -   Detalhes da empresa
 
-        -   Busca por tipo de serviço
+                -   Favoritar
 
-        -   Busca por categoria de produto
+        -   Serviços em destaque
 
-        -   Lista de resultados
+            -   Detalhes do serviço
 
-            -   Detalhes do serviço, produto ou artigo
+                -   Faça um orçamento
 
-        -   Cadastro de usuário
+                -   Detalhes da empresa/profissional
 
-        -   Cadastro de profissional/empresa
+                -   Favoritar
 
-        -   Dúvidas frequentes
+        -   Produtos em destaque
 
-        -   Entre em contato
+            -   Detalhes do produto
 
-        -   Quem somos?
+            -   Adicionar ao carrinho
+
+                -   Adicionar favoritos
+
+                -   Detalhes da empresa
+
+        -   Busca ( pode ser lateral ou campo superior )
+
+            -   Campo de busca
+
+            -   Busca por localidade
+
+            -   Busca por tipo de serviço
+
+            -   Busca por categoria de produto
+
+            -   Lista de resultados
+
+                -   Detalhes do serviço, produto ou artigo
+
+            -   Cadastro de usuário
+
+            -   Cadastro de profissional/empresa
+
+            -   Dúvidas frequentes
+
+            -   Entre em contato
+
+            -   Quem somos?
 
 
 ## Requisitos de funcionalidade:
