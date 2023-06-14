@@ -1,6 +1,6 @@
-**PLANTE.SE**
+## PLANTE.SE**
 
-## Missão:
+# Missão:
 
 Trazer empresas e profissionais envolvidos com agricultura urbana,
 jardinagem e paisagismo para o mundo digital, permitindo que ofereçam
@@ -20,7 +20,7 @@ empresas, profissionais, produtos e serviços por geolocalização,
 localidade e buscas.
   
 
-## Estrutura do site:
+# Estrutura do site:
 
 -   Admin
 
